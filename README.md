@@ -42,6 +42,11 @@ More at [**@opkod-france**](https://github.com/opkod-france) →
 
 ![Followers](https://img.shields.io/github/followers/ayhid?style=flat-square&logo=github&label=Followers)
 
+<p>
+  <img src="./metrics.svg" alt="GitHub metrics" width="480" />
+  <img src="./metrics.languages.svg" alt="Most used languages" width="380" />
+</p>
+
 ---
 
 ## 🤝 Work with me
