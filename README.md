@@ -41,10 +41,12 @@ More at [**@opkod-france**](https://github.com/opkod-france) →
 ## 📊 Activity
 
 ![Followers](https://img.shields.io/github/followers/ayhid?style=flat-square&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/ayhid?style=flat-square&logo=github&label=Stars)
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=ayhid&hide_border=true&theme=transparent" alt="Contribution streak" height="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ayhid&hide_border=true&theme=github-dark" />
+    <img src="https://streak-stats.demolab.com/?user=ayhid&hide_border=true" alt="Contribution streak" height="160" />
+  </picture>
 </p>
 
 ---
