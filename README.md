@@ -42,13 +42,6 @@ More at [**@opkod-france**](https://github.com/opkod-france) →
 
 ![Followers](https://img.shields.io/github/followers/ayhid?style=flat-square&logo=github&label=Followers)
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ayhid&hide_border=true&theme=github-dark" />
-    <img src="https://streak-stats.demolab.com/?user=ayhid&hide_border=true" alt="Contribution streak" height="160" />
-  </picture>
-</p>
-
 ---
 
 ## 🤝 Work with me
