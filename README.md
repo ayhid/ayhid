@@ -2,7 +2,7 @@
 
 **Senior full-stack engineer. I build Strapi v5 plugins, Next.js frontends, and the tooling in between.**
 
-⭐ Invited to the first **Strapi Community Stars** cohort — a small group of outside contributors Strapi works with directly on roadmap feedback and betas
+⭐ Part of the first **Strapi Community Stars** cohort — a small group of outside contributors Strapi works with directly on roadmap feedback and betas
 🏗️ 15+ years shipping for Leboncoin, Salomon, Memo Bank, Engie Digital, Deloitte, Technip Energies
 🔧 Founder of [**OPKOD**](https://github.com/opkod-france), where I open-source the plugins I wish existed
 🇫🇷 Based in Strasbourg, France · Freelance, open to senior/staff engagements
