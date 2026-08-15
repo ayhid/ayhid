@@ -40,9 +40,11 @@ More at [**@opkod-france**](https://github.com/opkod-france) →
 
 ## 📊 Activity
 
+![Followers](https://img.shields.io/github/followers/ayhid?style=flat-square&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/ayhid?style=flat-square&logo=github&label=Stars)
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayhid&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhid&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=ayhid&hide_border=true&theme=transparent" alt="Contribution streak" height="160" />
 </p>
 
 ---
