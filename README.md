@@ -51,6 +51,6 @@ More at [**@opkod-france**](https://github.com/opkod-france) →
 
 I take on freelance missions in TypeScript ecosystems: headless CMS architecture, WordPress/Magento to Strapi + Next.js migrations, plugin development, and AI-assisted developer workflows.
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Malt](https://www.malt.fr/profile/YOUR-HANDLE) · [opkod.fr](https://YOUR-SITE) <!-- replace with your real links, remove any you don't use -->
+📫 [LinkedIn](https://www.linkedin.com/in/ayoub-hidri-67a29428/)
 
 <sub>Off the keyboard: gravel bike, mecha anime, and turning pixel art into embroidery files. Yes, there is overlap with my day job.</sub>
